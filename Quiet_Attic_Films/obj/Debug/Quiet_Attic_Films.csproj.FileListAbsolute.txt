@@ -1,0 +1,35 @@
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\bin\Debug\Quiet_Attic_Films.exe.config
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\bin\Debug\Quiet_Attic_Films.exe
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\bin\Debug\Quiet_Attic_Films.pdb
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.csproj.AssemblyReference.cache
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.clientRegForm.resources
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.LoginForm.resources
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.menuForm.resources
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.Properties.Resources.resources
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.csproj.GenerateResource.cache
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.csproj.CoreCompileInputs.cache
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.exe
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.pdb
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.locationForm.resources
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.propertyForm.resources
+C:\Users\Hansana\source\repos\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.staffForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\bin\Debug\Quiet_Attic_Films.exe.config
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\bin\Debug\Quiet_Attic_Films.exe
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\bin\Debug\Quiet_Attic_Films.pdb
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.csproj.AssemblyReference.cache
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.clientRegForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.employeeForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.LoginForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.locationForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.menuForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.Properties.Resources.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.propertyForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.staffForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.csproj.GenerateResource.cache
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.csproj.CoreCompileInputs.cache
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.exe
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.pdb
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.productionForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.paymentForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.assignPropertyForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\database\assignment\Quiet_Attic_Films\obj\Debug\Quiet_Attic_Films.assignEmpForm.resources
